@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: black ;
+}
+.name {
+    margin: 50px 0;
+    text-align: center;
+    color: white;
+}
+img {
+    margin: 0 525px 60px;
+    width: 300px;
+    border-radius: 150px
+        
+}
+.work {
+    margin: 20px 0;
+    text-align: center;
+    color: white;
+    
+}
+a {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: column; */
+    /* gap: 20px; */
+    color: white;
+    background-color: orange;
+    padding: 25px 5px;
+    margin: 15px 550px;
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.a-8 {
+    margin-bottom: 30px;
+}
